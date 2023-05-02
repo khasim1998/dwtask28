@@ -1,0 +1,13 @@
+{
+  "username": "MULESOFT1",
+  "name": "Narendra",
+  "surname": "Marathe",
+  "location": {
+      "address": {
+          "street": "MG Road",
+          "number": 9
+      },
+      "city": "Pune",
+      "country": "India"
+  }
+}
